@@ -247,5 +247,4 @@ int main()
 {
     Nhanvien nv;
     nv.thaoTac();
-    return 0;
 }
